@@ -1,5 +1,4 @@
 import pygame
-from pygame.sprite import _Group
 
 class CircleShape(pygame.sprite.Sprite):
     def __init__(self, x, y, radius):
